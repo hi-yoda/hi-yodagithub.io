@@ -1,0 +1,23 @@
+project:
+  type: website
+  resources:
+    - files/cv.pdf
+
+website:
+  title: "Hironao Yoda"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "日本語"
+        href: japanese.qmd
+
+format:
+  html:
+    theme: journal
+    mainfont: '"Roboto", "Noto Sans JP", sans-serif'
+    toc: false

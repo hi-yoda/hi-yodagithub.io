@@ -1,0 +1,22 @@
+---
+title: ""
+title-block-banner: false
+---
+
+# Hironao Yoda
+<!--**PhD student at the University of Tokyo**-->
+[🎓 Google Scholar](https://scholar.google.co.jp/citations?user=D3IVDRUAAAAJ&hl=ja) ·
+[📚 ResearchGate](https://www.researchgate.net/profile/Hironao-Yoda) ·
+[🆔 ORCID](https://orcid.org/0009-0005-3707-5510) ·
+[✉️ Email](mailto:yoda-hironao206@g.ecc.u-tokyo.ac.jp)
+
+---
+
+I am currently a PhD student in the Graduate Schools for Law and Politics at The University of Tokyo.
+
+My research focuses on political generations as a long-term political process. I am particularly interested in how political generations are shaped by contemporary politics and society, and how they, in turn, shape political and social dynamics. While my primary focus is on Japan, I also conduct comparative research on other advanced democracies.
+
+---
+
+Find out more about my [research](research.qmd)
+and view my [CV](files/cv.pdf).
